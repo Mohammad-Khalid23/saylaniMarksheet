@@ -1,0 +1,52 @@
+body{
+    background-color:rgba(154, 205, 50, 0.69)
+}
+
+.main{
+    width: 90%;
+    margin: 0 auto;
+    border: 2px solid black;
+    padding: 10px;
+    background-color: white;
+    border-radius: 5px;
+}
+/*.mainHeading{
+text-align:  center;;
+}*/
+/*.headElements{
+font-size: 20px;
+display:block;
+font-family: Arial, Helvetica, sans-serif
+}*/
+span{
+    
+}
+#intituteName,.grade{
+    float: right;
+    padding-right: 5px;
+}
+table{
+    width: 100%;
+    height: 70%
+    margin : 0 auto;
+    border: 3px solid black;
+}
+th{
+    padding: 5px;
+    border: 2px solid black;
+    background-color: rgba(154, 205, 50, 0.69)
+
+}
+td{
+    text-align: center;
+    border: 2px solid black;
+}
+.fonts{
+font-family: Arial, Helvetica, sans-serif;
+}
+.marksheet{
+    text-align: center;
+display: block;
+font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
